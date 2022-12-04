@@ -116,3 +116,9 @@ results/crinacle/*/*/*.csv
 chromedriver*
 compensation/.DS_Store
 .DS_Store
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC off)/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC off) minimum phase 44100Hz.wav
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC off)/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC off) minimum phase 48000Hz.wav
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC on)/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC on) minimum phase 44100Hz.wav
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC on)/Bang & Olufsen Beoplay H9 3rd Gen (wired, power on, ANC on) minimum phase 48000Hz.wav
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bose SoundLink Around-Ear Wireless Headphones II (wireless)/Bose SoundLink Around-Ear Wireless Headphones II (wireless) minimum phase 44100Hz.wav
+results/referenceaudioanalyzer/referenceaudioanalyzer_hdm-x_harman_over-ear_2018/Bose SoundLink Around-Ear Wireless Headphones II (wireless)/Bose SoundLink Around-Ear Wireless Headphones II (wireless) minimum phase 48000Hz.wav
